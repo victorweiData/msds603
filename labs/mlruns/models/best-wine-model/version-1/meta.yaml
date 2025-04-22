@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1745285523065
+current_stage: None
+description: null
+last_updated_timestamp: 1745285523065
+name: best-wine-model
+run_id: 147c3fb71c6641a89160dde57dcbce01
+run_link: null
+source: file:///Users/victorwei/USF_Spring_2/msds603/labs/mlruns/888564028651025131/147c3fb71c6641a89160dde57dcbce01/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///Users/victorwei/USF_Spring_2/msds603/labs/mlruns/888564028651025131/147c3fb71c6641a89160dde57dcbce01/artifacts/model
+user_id: null
+version: 1

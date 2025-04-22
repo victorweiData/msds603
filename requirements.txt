@@ -2,3 +2,8 @@ mlflow==2.15.1
 numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.5.1
+setuptools
+mlflow==2.15.1
+psycopg2-binary==2.9.9
+google-cloud-storage==2.18.2metaflow
+pylint
