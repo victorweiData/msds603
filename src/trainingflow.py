@@ -52,7 +52,6 @@ class TrainingFlow(FlowSpec):
     @step
     def register(self):
         """Log and register the best model in MLflow."""
-        # Adjust this URI if your MLflow server is on a different port
         mlflow.set_tracking_uri("http://127.0.0.1:5001")
         mlflow.set_experiment('iris‑trainingflow')
         with mlflow.start_run():
